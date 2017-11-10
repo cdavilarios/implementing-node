@@ -1,2 +1,3 @@
 Repository about an simple example using node.js, nodemon, express and pug.
-This is part of my formation on Front-End.
+
+Refer to https://courses.ideate.cmu.edu/48-739/s2017/?page_id=177
